@@ -1,17 +1,18 @@
 # Customer RFM Analysis Dashboard
-Sebuah dashboard segmentasi pelanggan profesional yang dirancang untuk mengidentifikasi pelanggan bernilai tinggi yang masuk dalam kategori "At-Risk" (Berisiko Pindah).
+A professional customer segmentation dashboard built to identify high-value "At-Risk" customers.
 
 # Business Impact
-- Mengidentifikasi 240 (25,37%) pelanggan bernilai tinggi yang berisiko mengalami churn.
-- Menyediakan wawasan yang dapat ditindaklanjuti untuk kampanye pemasaran dalam memicu keterlibatan kembali pelanggan (re-engagement).
-
+- Identified 240 (25.37%) high-value customers at risk of churn.
+- Provided actionable insights for marketing re-engagement campaigns.
+- 
 # Tools Used
-- **Python (Pandas):** Untuk pembersihan data dan segmentasi RFM.
-- **Power BI:** Untuk visualisasi dashboard dan pelacakan KPI.
+- **Python (Pandas):** For data cleaning and RFM segmentation.
+- **Power BI:** For dashboard visualization and KPI tracking.
 
 # Dashboard Preview
 ![Dashboard Preview](./Dashboard_Preview.png)
 
 # Project Structure
-- `RFM_analysis.ipynb`: Kode Python untuk pemrosesan data.
-- `report.pbix`: File Power BI.
+- `RFM_analysis.ipynb`: Python code for data processing.
+- `report.pbix`: Power BI file. 
+
