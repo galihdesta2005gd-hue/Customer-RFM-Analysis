@@ -11,7 +11,7 @@ A professional customer segmentation dashboard built to identify high-value "At-
 - **Power BI:** For dashboard visualization and KPI tracking.
 
 # Dashboard Preview
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](./Dashboard_Preview.png)
 
 # Project Structure
 - `RFM_analysis.ipynb`: Python code for data processing.
