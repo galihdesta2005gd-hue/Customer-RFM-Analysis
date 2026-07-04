@@ -1,4 +1,3 @@
-# Customer-RFM-Analysis
 
 # Customer RFM Analysis Dashboard
 A professional customer segmentation dashboard built to identify high-value "At-Risk" customers.
